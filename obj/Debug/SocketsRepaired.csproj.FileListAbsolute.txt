@@ -1,0 +1,6 @@
+c:\users\comarch\documents\visual studio 2013\Projects\SocketsRepaired\SocketsRepaired\bin\Debug\SocketsRepaired.exe.config
+c:\users\comarch\documents\visual studio 2013\Projects\SocketsRepaired\SocketsRepaired\bin\Debug\SocketsRepaired.exe
+c:\users\comarch\documents\visual studio 2013\Projects\SocketsRepaired\SocketsRepaired\bin\Debug\SocketsRepaired.pdb
+c:\users\comarch\documents\visual studio 2013\Projects\SocketsRepaired\SocketsRepaired\obj\Debug\SocketsRepaired.csprojResolveAssemblyReference.cache
+c:\users\comarch\documents\visual studio 2013\Projects\SocketsRepaired\SocketsRepaired\obj\Debug\SocketsRepaired.exe
+c:\users\comarch\documents\visual studio 2013\Projects\SocketsRepaired\SocketsRepaired\obj\Debug\SocketsRepaired.pdb
